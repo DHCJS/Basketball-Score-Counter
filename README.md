@@ -1,6 +1,7 @@
 # Basketball Score Counter
 
-JavaScript challenges from Scrimba. Build from scratch using VS Code and deploying on Netlify. Simple HTML and CSS.
+JavaScript challenges from Scrimba. Build from scratch using VS Code and deploying on Netlify. Simple HTML and CSS. You can try this project on [Netlify](https://silver-pasca-511b5e.netlify.app/)
+
 ## Lessons Learned
 
 - [x]  variables
